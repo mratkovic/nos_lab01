@@ -26,9 +26,8 @@ Pokretanje rjesenja
 
 ###Izgled rjesenja:
 
-![ScreenShot](https://raw.githubusercontent.com/mratkovic/nos_lab01/master/img/ss1.png)
+<img src="https://raw.githubusercontent.com/mratkovic/nos_lab01/master/img/ss1.png" width="550">
 
-
-![ScreenShot](https://raw.githubusercontent.com/mratkovic/nos_lab01/master/img/ss2.png)
+<img src="https://raw.githubusercontent.com/mratkovic/nos_lab01/master/img/ss2.png" width="550">
 
 
